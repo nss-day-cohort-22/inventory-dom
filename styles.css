@@ -1,0 +1,12 @@
+.item {
+    padding: 10px;
+}
+
+.crafts {
+    border: 5px dashed tomato;
+}
+
+.furniture {
+    border: 5px dotted skyblue;
+
+}
